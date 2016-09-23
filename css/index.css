@@ -1,5 +1,5 @@
 html{
-    min-height:100%;/* make sure it is at least as tall as the viewport */
+    min-height:100%;
     position:relative;
 }
 
@@ -21,7 +21,7 @@ body{
     left:0;
     right:0;
     overflow:hidden;
-    z-index:-1; /* Remove this line if it's not going to be a background! */
+    z-index:-1; 
     padding: 25px 0 25px 15px;
 }
 
